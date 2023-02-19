@@ -1,4 +1,4 @@
-# DevOps-project
+
 This repository contains a part of my final project in my DevOps course in which I was assigned to:
 1.	Build a running JSP website and upload the site to GitHub
 2.	Operate a Linux VM and pull Jenkins and Tomcat Docker image
