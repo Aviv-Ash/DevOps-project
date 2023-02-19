@@ -8,3 +8,4 @@ This repository contains a part of my final project in my DevOps course in which
 
 
 The Website is a rendom cubes generator for the occasional backgammon game (or your favorite dice required game)
+![screen](https://user-images.githubusercontent.com/82207941/219969572-87708b4c-685f-4a0d-b84a-ff5205476694.jpg)
